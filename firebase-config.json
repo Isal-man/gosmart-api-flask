@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gosmart-app",
+  "private_key_id": "738b75b027ead943ac16e0ca87e5262422383f98",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCwCr++mF2lFpn\nTU4euRpGKAyv+T/UlmuYJQroYrYUkIasxKlFeW0i9CfqDhuoZyztYc37e1WloLVw\nLlRyMs+QWgjFc7mtrRyePdKxF7eVQ1uqFz8CGNC5raMXfZz45wAzTxjyqS7xrnK9\nJjVnRXCKHCQ0Pewi0LgFklnyp6W3J0Nd/byCc9xXjnWrdt0EytXUGzggVZuRsJ++\nQs4apz9H3wI9DHPXJnzCR5BHLOdOy3/hJG8w6MHxGBPXNroQ598kaaqQw1/R+Pk3\nF7hQG+PLu7+ekZyMDUXR8Q0pQOCsbEDmZz2/RlBUdyuRBxEGcUC0Z8uIAzwhFAJH\nzH5TY/x/AgMBAAECggEAGCkkDGb+oWntP0SZbPlU16BPVqOK9jJFHeZ2kHbylOGL\nO7LYNyzFy+DTdNeUOdO3AKoyFkFqUjZ6W/T7eAFyu7tXvDtLrU69LqqH0X2aQnPN\nUvA4Wme+uVJf2eG1EDIEVdk5xJ0VnFkilfHADVRRjmjIWwzVl0oiklpiO1buGacX\nXELwl4extnmdjXksLLExB6qQvJ8mwvpimfsjZg+wbAV84gMX49wRM7VFVGUzy/+s\nDB4xI4lTqooRymF9Jj7ZW8xc/fkvcMTUpNN+PPAdO4kySoHPsHqHMjs7mgB92MUU\n3DzVnO3O0ibd3Nw1HBAhivUeIzQlgLfHmqB/s0o2PQKBgQDrEUg6vYcqP+KN+p1z\nwiMT6Pe6pq9sGOT6szddY6IDSQmRcFoqZLahrUSrKzt2EsM5bakGDuR6MT9nFute\nddB8lUG/HPyzetOZkda4/ON++6Tol3acd0xEYCF4TPqMFNPIa5wf35iYnBJRMNrT\nG+mgny254NTMin6dkMxRG2LwHQKBgQDUF81s6RPjeTjCLAhaSvjP6y7QAsaevZq2\nXWfPMwLTgFMG7Tj9HBpGHIGEKEjnykXkgOtSKAgdf7eKbrxgksNkTVOhIkCTT2hV\nB5jnwntoPXmiSBsatZxpuCNPHFi5JsQze6MuUSx5VM/4H4dxb2EFCoxC2ywVal4n\n+wYV9Pz0SwKBgAn8UfUs1/EThaxCWS3xsUvHOb7UFd+hrxh3RILTGK7LC30CKNJk\nNN3pXmFnFL+PTHvEDMoVF9+Y9/iJILaCirjAHmrf8Fwve42qhFSXaZKbXgYDaSZ8\nauD8tG9H1dzdhaGd8KPp+7F/78dDLAiLxwDrwiWDR4bo2zgWTpejcjCBAoGAQgDC\nShFiwhiYZDzlwIuyUKok4FDs1Lu2qOf6hU2fpIg7zl0GriYPux/l4mXTAmc9RvYj\nxWZ12BBF4wvBDeC+c7lovC13oSBGHKgHmqA4XWE8OBdub+pyqafHPThaGAyLZGYm\niyRxzbRqIBJXySJbNAFrUub4GhYHBTQmWbDrA28CgYEAnFb9lUurV0BhxH6ruP1s\n9MpvSR91HlG7fSlTAHDPQ3xs9hBmGDta8M+QZ8/FhoPBQiBONzyIeRuZ4sF/IJzJ\nJpxYD5kRBxuYEa0fjByQjLwuR4RjuGVe0C/zCzXGDHwSbH33ApZDNvv8MXUfpVur\nPjEIYier+F6WmNL9avlAm+w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fb1ws@gosmart-app.iam.gserviceaccount.com",
+  "client_id": "110833833080999823643",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fb1ws%40gosmart-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
